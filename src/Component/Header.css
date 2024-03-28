@@ -1,11 +1,11 @@
 .head{
     display: flex;
     align-items: center;
-    gap: 400px;
+    gap: 24%;
 }
 
 .head img{
-    margin-left: 123px;
+    margin-left: 7%;
     position: relative;
     width: 77px;
     padding: 10px;

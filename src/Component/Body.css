@@ -1,8 +1,11 @@
 .top{
+
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 2%;
+    width: 99%;
+    height: 35%; 
 }
 
 .big{
